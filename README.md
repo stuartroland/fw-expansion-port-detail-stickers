@@ -8,7 +8,7 @@ As for the numbering of the ports, the rule of thumb is back right to front righ
 
 <p align="center"><img width="555" height="363" text-align: center alt="Port numbering diagram" src="https://github.com/user-attachments/assets/a23f5ff5-396c-4b33-814b-e669b70bcecc" /></p>
   
-<p align="center">Port numbering while laptop is face-up</p>
+<div align="center">Port numbering while laptop is face-up</div>
 
 
 
