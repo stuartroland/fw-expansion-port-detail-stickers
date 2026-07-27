@@ -6,7 +6,7 @@ A simple set of stickers show the details of each USB port for various Framework
 
 As for the numbering of the ports, the rule of thumb is back right to front right, then back left to front left, while the laptop is face down and hinge away from you (the most likely position it will be in while you are swapping expansion cards). I kept it consistent with the way Framework numbers them in their diagrams, linked below.
 
-<p align="center">
+<p align="center" text-align="center">
   <img width="555" height="363" text-align: center alt="Port numbering diagram" src="https://github.com/user-attachments/assets/a23f5ff5-396c-4b33-814b-e669b70bcecc" />
   
   Port numbering while laptop is face-up
