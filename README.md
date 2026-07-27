@@ -1,5 +1,5 @@
 # fw-expansion-port-detail-stickers
-A simple set of stickers show the details of each USB port for various Framework laptop mainboards. The aim here was to create small stickers which quickly show the port specifications to be printed off and applied in the expansion slots to inform you at a glance which expansion cards are suitable per port. This is more of a concern with the AMD boards specifically, since on the AMD boards it can vary per port.
+A simple set of stickers show the details of each USB port for various Framework laptop mainboards. The aim here was to create small stickers which quickly show the port specifications to be printed off and applied in the expansion slots to inform you at a glance which expansion cards are suitable per port. This is more of a concern with the AMD boards specifically, since on the AMD boards USB and display capabilities can vary per port.
 
 <p align="center"><img width="600" height="450" alt="Image of printed stickers" src="https://github.com/user-attachments/assets/f68c13c5-c636-4475-84c6-94ed04b3b56d" /></p>
 
