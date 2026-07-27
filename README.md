@@ -8,10 +8,15 @@ As for the numbering of the ports, the rule of thumb is back right to front righ
 
 <p align="center"><img width="555" height="363" text-align: center alt="Port numbering diagram" src="https://github.com/user-attachments/assets/a23f5ff5-396c-4b33-814b-e669b70bcecc" /></p>
 
+
 Info taken from the official FW port definition documents:
+
 https://knowledgebase.frame.work/usb-port-definition-matrix-framework-laptop-13-pro-HJU7aVrpx
+
 https://knowledgebase.frame.work/en_us/usb-port-definition-matrix-framework-laptop-13-HkHVUHaTge
+
 https://knowledgebase.frame.work/en_us/usb-port-definition-matrix-framework-laptop-16-SkFD30Rlx
+
 
 Consider the stickers to paraphrase / condense the most important info, but as always refer to the manufacturer for full specs, there are lots of nuances that cant be encapsulated into little stickers, details like "Ports 1,2,3, and 4 are shared on a first come first serve basis. So they are 1.5A by default, but one port from any of these can negotiate 3A over PD. Once that is taken, the other ports are limited to 1.5A."
 Feel free to reach out if you notice mistakes, but I did make efforts to triple check the details.
