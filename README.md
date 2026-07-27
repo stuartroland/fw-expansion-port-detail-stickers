@@ -1,12 +1,12 @@
 # fw-expansion-port-detail-stickers
 A simple set of stickers show the details of each USB port for various Framework laptop mainboards. The aim here was to create small stickers which quickly show the port specifications to be printed off and applied in the expansion slots to inform you at a glance which expansion cards are suitable per port. This is more of a concern with the AMD boards specifically, since on the AMD boards it can vary per port.
 
-<img width="400" height="300" alt="PXL_20260727_183150031" src="https://github.com/user-attachments/assets/f68c13c5-c636-4475-84c6-94ed04b3b56d" />
+<div align="center"><img width="600" height="450" alt="Image of printed stickers" src="https://github.com/user-attachments/assets/f68c13c5-c636-4475-84c6-94ed04b3b56d" /></div>
 
 
 As for the numbering of the ports, the rule of thumb is back right to front right, then back left to front left, while the laptop is face down and hinge away from you (the most likely position it will be in while you are swapping expansion cards). I kept it consistent with the way Framework numbers them in their diagrams, linked below.
 
-<img width="555" height="363" alt="image" src="https://github.com/user-attachments/assets/a23f5ff5-396c-4b33-814b-e669b70bcecc" />
+<div align="center"><img width="555" height="363" text-align: center alt="Port numbering diagram" src="https://github.com/user-attachments/assets/a23f5ff5-396c-4b33-814b-e669b70bcecc" /></div>
 
 Info taken from the official FW port definition documents:
 https://knowledgebase.frame.work/usb-port-definition-matrix-framework-laptop-13-pro-HJU7aVrpx
